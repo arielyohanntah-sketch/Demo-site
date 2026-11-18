@@ -6,7 +6,7 @@ Site vitrine statique (HTML/CSS/Bootstrap) pour l'agence de rénovation **T&A R�
 
 ```
 .
-├── index.html            # Redirection vers pages/index.html
+├── index.html            # Page d'accueil
 ├── README.md
 ├── assets/
 │   └── images/           # Toutes les images du site
@@ -31,4 +31,4 @@ Les dépendances (Bootstrap, Bootstrap Icons, Google Fonts) sont chargées via C
 
 - Les images sont regroupées dans `assets/images/`.
 - Les pages HTML sont dans `pages/`.
-- `index.html` à la racine redirige automatiquement vers `pages/index.html`.
+- `index.html` est la page d'accueil à la racine.
